@@ -24,7 +24,9 @@ discord-reader/
 │   └── API_REFERENCE.md        # Detailed API documentation
 ├── requirements.txt             # Python dependencies
 ├── run.py                      # Main entry point (recommended)
-├── .env                        # Environment configuration
+├── .env.example                # Environment configuration template
+├── .gitignore                  # Git ignore patterns
+├── .env                        # Environment configuration (create from .env.example)
 └── README.md                   # This file
 ```
 
